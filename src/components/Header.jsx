@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "@/styles/Header.module.css";
+import styles from "@/styles/header.module.css";
 import Container from "./home/Container";
 import { FiSearch, FiShoppingCart } from "react-icons/fi";
 import Link from "next/link";
